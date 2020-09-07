@@ -1,3 +1,3 @@
-# Reactor API - Guía de Uso
+# Reactor API - Manual de Uso
 
-Guía de Uso de Reactor API
+Manual de Uso de Reactor API
